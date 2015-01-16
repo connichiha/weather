@@ -1,50 +1,50 @@
 "code","en","zh","type"
-0,tornado,Áú¾í·ç,3
-1,tropical storm,ÈÈ´ø·ç±©,2
-2,hurricane,±©·ç,3
-3,severe thunderstorms,Ç¿À×ÓêÌìÆø,16
-4,thunderstorms,À×Óê,11
-5,mixed rain and snow,ÓêÑ©,12
-6,mixed rain and sleet,ÓêÑ©,12
-7,mixed snow and sleet,ÓêÑ©,12
-8,freezing drizzle,¶³Ã«Ã«Óê,11
-9,drizzle,Ã«Ã«Óê,11
-10,freezing rain,¶³Óê,11
-11,showers,ÕóÓê,11
-12,showers,ÕóÓê,11
-13,snow flurries,Ğ¡Ñ©,13
-14,light snow showers,ÕóÑ©,13
-15,blowing snow,·ÉÑ©,13
-16,snow,Ñ©,14
-17,hail,±ù±¢,15
-18,sleet,ÓêÑ©,12
-19,dust,»Ò³¾,5
-20,foggy,Îí,7
-21,haze,±¡Îí,7
-22,smoky,ÑÌÎíÃÖÂş,6
-23,blustery,´ó·ç,3
-24,windy,·ç,4
-25,cold,Àä,18
-26,cloudy,¶àÔÆ,8
-27,mostly cloudy (night),ÂúÔÆÃÜ²¼,8
-28,mostly cloudy (day),ÂúÔÆÃÜ²¼,8
-29,partly cloudy (night),ÉÙÔÆ,9
-30,partly cloudy (day),ÉÙÔÆ,9
-31,clear (night),Çç,10
-32,sunny,¾¦,10
-33,fair (night),Çç,10
-34,fair (day),Çç,10
-35,mixed rain and hail,´óÓêºÍ±ù±¢,16
-36,hot,ÈÈ,1
-37,isolated thunderstorms,¾Ö²¿À×Óê,11
-38,scattered thunderstorms,ÁãĞÇÀ×Óê,11
-39,scattered thunderstorms,ÁãĞÇÀ×Óê,11
-40,scattered showers,ÁãĞÇÕóÓê,11
-41,heavy snow,´óÑ©,14
-42,scattered snow showers,ÁãĞÇÕóÑ©,13
-43,heavy snow,´óÑ©,14
-44,partly cloudy,ÉÙÔÆ,9
-45,thundershowers,À×ÕóÓê,11
-46,snow showers,ÕóÑ©,13
-47,isolated thundershowers,¾Ö²¿À×Óê,11
-3200,not available,ÎŞÊı¾İ,19
+0,tornado,é¾™å·é£,3
+1,tropical storm,çƒ­å¸¦é£æš´,2
+2,hurricane,æš´é£,3
+3,severe thunderstorms,å¼ºé›·é›¨å¤©æ°”,16
+4,thunderstorms,é›·é›¨,11
+5,mixed rain and snow,é›¨é›ª,12
+6,mixed rain and sleet,é›¨é›ª,12
+7,mixed snow and sleet,é›¨é›ª,12
+8,freezing drizzle,å†»æ¯›æ¯›é›¨,11
+9,drizzle,æ¯›æ¯›é›¨,11
+10,freezing rain,å†»é›¨,11
+11,showers,é˜µé›¨,11
+12,showers,é˜µé›¨,11
+13,snow flurries,å°é›ª,13
+14,light snow showers,é˜µé›ª,13
+15,blowing snow,é£é›ª,13
+16,snow,é›ª,14
+17,hail,å†°é›¹,15
+18,sleet,é›¨é›ª,12
+19,dust,ç°å°˜,5
+20,foggy,é›¾,7
+21,haze,è–„é›¾,7
+22,smoky,çƒŸé›¾å¼¥æ¼«,6
+23,blustery,å¤§é£,3
+24,windy,é£,4
+25,cold,å†·,18
+26,cloudy,å¤šäº‘,8
+27,mostly cloudy (night),æ»¡äº‘å¯†å¸ƒ,8
+28,mostly cloudy (day),æ»¡äº‘å¯†å¸ƒ,8
+29,partly cloudy (night),å°‘äº‘,9
+30,partly cloudy (day),å°‘äº‘,9
+31,clear (night),æ™´,10
+32,sunny,ç›,10
+33,fair (night),æ™´,10
+34,fair (day),æ™´,10
+35,mixed rain and hail,å¤§é›¨å’Œå†°é›¹,16
+36,hot,çƒ­,1
+37,isolated thunderstorms,å±€éƒ¨é›·é›¨,11
+38,scattered thunderstorms,é›¶æ˜Ÿé›·é›¨,11
+39,scattered thunderstorms,é›¶æ˜Ÿé›·é›¨,11
+40,scattered showers,é›¶æ˜Ÿé˜µé›¨,11
+41,heavy snow,å¤§é›ª,14
+42,scattered snow showers,é›¶æ˜Ÿé˜µé›ª,13
+43,heavy snow,å¤§é›ª,14
+44,partly cloudy,å°‘äº‘,9
+45,thundershowers,é›·é˜µé›¨,11
+46,snow showers,é˜µé›ª,13
+47,isolated thundershowers,å±€éƒ¨é›·é›¨,11
+3200,not available,æ— æ•°æ®,19
